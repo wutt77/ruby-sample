@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "Hello, SAAS world"
+	"Hello, SaaS world"
 end
